@@ -1,0 +1,27 @@
+<div style="background-color: #f0f4f8; padding: 40px 20px; text-align: center; max-width: 100%; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);">
+    
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <img src="https://tewbhv.vtexassets.com/assets/vtex.file-manager-graphql/images/32802324-e0a3-47cf-86a5-508c75bf6752___d71060da5ad1cdd3499681e5d001cbf4.png" alt="Ícone de busca não encontrada" style="width: 60px; height: 60px; margin-bottom: 10px;">
+        <h2 style="color: #004494; font-size: 28px; margin: 0;">
+            Não encontrou o curso que procurava? 
+        </h2>
+    </div>
+    <p style="color: #333; font-size: 16px; max-width: 600px; margin: 0 auto 30px auto; line-height: 1.6;">Conte pra gente qual curso você gostaria de ver por aqui. Vamos avisar você em primeira mão quando ele estiver disponível!
+    </p>
+
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+        <a href="https://mkt.futuro.digital/registro-de-curso-nao-encontrado" 
+           style="background-color: #004494; color: #ffffff; text-decoration: none; padding: 15px 30px; 
+                  border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-flex; 
+                  align-items: center; justify-content: center; border: 2px solid #004494; 
+                  transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);"
+           onmouseover="this.style.backgroundColor='#003366'; this.style.borderColor='#003366'; this.style.transform='translateY(-2px)';"
+           onmouseout="this.style.backgroundColor='#004494'; this.style.borderColor='#004494'; this.style.transform='translateY(0)';" target="_blank">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor" style="margin-right: 10px;" viewBox="0 0 16 16">
+                <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/>
+            </svg>
+            Sugerir um Curso
+        </a>
+    </div>
+</div>
